@@ -1,7 +1,6 @@
 # attention pooling-based dilated convolution neural network (APDCNN)
-
-This library has to be run on Anaconda.
-
+This library is the implementation of the attention pooling-based dilated convolution neural network (APDCNN) from the paper Deep Learning Hybrid Models for Sentiment Analysis. 
+These codes have to be run on Anaconda.
 Refer to this page to download it.
 https://www.anaconda.com/products/individual
 
